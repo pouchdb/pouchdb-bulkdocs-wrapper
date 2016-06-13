@@ -18,6 +18,6 @@
 	"license": "Apache-2.0",
 	"author": "Marten de Vries",
 	"dependencies": {
-		"pouchdb-promise": "^0.0.0"
+		"pouchdb-promise": "^5.4.3"
 	}
 }
